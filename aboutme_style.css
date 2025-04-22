@@ -2,3 +2,15 @@ img{
     width:1000px ;
     height:500px ;
 }
+
+.page_header{
+    background-image:url("boats.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 450px;
+    text-align: center;
+} 
+
+.page_header h1{
+    padding-top: 190px;
+}
